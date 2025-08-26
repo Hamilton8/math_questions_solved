@@ -2,6 +2,7 @@ package simple_numbers;
 
 import java.util.Scanner;
 
+//PROGRAM TO FIND A DIGIT IN A NUMBER
 public class FindDigit {
     public static void main(String[] args) {
           Scanner input = new Scanner(System.in);
