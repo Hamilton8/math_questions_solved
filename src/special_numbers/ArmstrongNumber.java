@@ -3,7 +3,7 @@ package special_numbers;
 import java.util.Scanner;
 
 //PROGRAM TO CHECK WHETHER A NUMBER IS ARMSTRONG OR NOT
-public class ArmstrongNumber {
+ public class ArmstrongNumber {
     public static void main(String[] args) {
         int count,rem,sum=0;
         Scanner input = new Scanner(System.in);
