@@ -2,6 +2,7 @@ package special_numbers;
 
 import java.util.Scanner;
 
+//PROGRAM TO CHECK IF A NUMBER IS STRONG OR NOT
 public class StrongNumber {
     public static void main(String[] args) {
         int temp,rem,sum=0,fact;
